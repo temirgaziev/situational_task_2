@@ -1,71 +1,64 @@
-# Getting Started with Create React App
+**WebWizards Studios Portfolio Website**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+### Description:
 
-In the project directory, you can run:
+This project involves the design and development of a modern and responsive website for WebWizards Studios' portfolio. The website showcases the projects completed by the agency, focusing on the comprehensive presentation of the "Манас Ордо" complex. "Манас Ордо" is a vast cultural and historical complex preserving the legacy of the legendary epic hero, Manas. The complex, also known as Manas Dome, houses Manas' body according to legend. The memorial complex is dedicated to the national hero, Manas, who defended and united the Kyrgyz people in a single epic. Built around 1334 during the Karakhanid period, the complex is located in the northwest of Kyrgyzstan. It features a mausoleum where the hero's body is kept. The location of the complex holds significance; according to legend, Manas' main base and his army are situated in the Talas Valley.
 
-### `yarn start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Features:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Informative Layout:** The website offers an informative layout, presenting details about the "Манас Ордо" complex comprehensively.
 
-### `yarn test`
+2. **Visual Representation:** Visual elements are incorporated to enhance the presentation of the complex, providing visitors with a vivid understanding of its historical and cultural significance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Responsive Design:** The website is designed to be responsive, ensuring accessibility across various devices and screen sizes.
 
-### `yarn build`
+4. **Engaging Content:** Engaging content about the complex is provided, capturing the attention of visitors and encouraging exploration.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. **SEO Optimization:** Best practices in SEO are implemented to enhance the visibility and discoverability of the website.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
+### [Манас Ордо Website](https://manas-ordo.vercel.app)
+### Deployment Process:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository from GitHub: [Манас Ордо Repo](https://github.com/temirgaziev/situational_task_2)
+git clone https://github.com/temirgaziev/situational_task_2
+2. Install dependencies using npm:
+npm install
+3. Run the development server:
+npm start
 
-### `yarn eject`
+4. Access the website locally via the provided URL.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. Follow the deployment instructions outlined in the README.md file of the repository to deploy the website.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Documentation:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+For detailed documentation regarding the website's design, functionality, and deployment process, refer to the README.md file in the project repository.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Screenshots:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![Screenshot 1](/path/to/screenshot1.png)](link_to_screenshot1)
+[![Screenshot 2](/path/to/screenshot2.png)](link_to_screenshot2)
+[![Screenshot 3](/path/to/screenshot3.png)](link_to_screenshot3)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Video Demonstration:
 
-### Analyzing the Bundle Size
+[Watch the video demonstration of the website's features](link_to_video)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
