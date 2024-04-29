@@ -1,0 +1,129 @@
+{
+    "navigation": {
+      "complex": "Complex",
+      "archMuseum": "Archaeological museum",
+      "archive": "Archive",
+      "gallery": "Gallery",
+      "contacts": "Contacts"
+    },
+    "footer": {
+      "partner": "Partners",
+      "address": "Phone",
+      "socMedia": "Social media"
+    },
+    "mainPage": {
+      "title": "Manas Ordo Complex",
+      "desc": "All materials were written before 1980, when Kyrgyzstan was still part of the USSR.",
+      "desc2": "Manas Ordo is a memorial complex in honor of the national hero Manas, who defended and united the Kyrgyz in the epic of the same name. It was erected in the Karakhanid era, around 1334. On the memorial complex in the north-west of Kyrgyzstan there is a mausoleum where the remains of the hero are kept. The location of the complex is not accidental at all: according to legend, it was in the Talas valley that the main headquarters of Manas and his army were located.",
+      "arch": {
+        "title": "Arch",
+        "desc": "The territory of the complex begins with an archway representing the battle helmets of the heroes of the trilogy - Manas, Semetei, Seitek. On the right side of the main entrance is the office of the administration of the complex and the center of Manas Studies. This institution consists of a library and a school for young manaschis."
+      },
+      "parking": {
+        "title": "Parking Lot",
+        "desc": "On the left side of the main entrance is organized parking for 300 cars. At the edge of the parking lot are stores where visitors can buy a variety of souvenirs."
+      },
+      "khanYurt": {
+        "title": "Khan Yurt",
+        "desc": "After passing the main gate on the left side, you can see a specially built hill. Here, in summer, a 12-support yurt is installed, which serves as a Khan's yurt. This yurt was made by the best craftsmen of Talas for the 1000th anniversary of the epic 'Manas' and won the main prize. The height of the yurt is 5, 70 m, the diameter of 10 meters, the diameter of the tunduk (the top of the yurt) 2 m 50 cm ."
+      } ,
+      "garden": {
+        "title": "Garden - The Flower of Manas Ordo",
+        "desc": "The Manas Ata Flower Garden with various decorative plantings on the roadsides and flower beds gives the complex a special attractiveness and beauty. The Manas Ata flower garden occupies 20 hectares of the area of the Manas Ordo complex, the central part of the garden is decorated with more than 80 types of ornamental trees, the rest is supplemented by about 2000 flower bushes."
+      },
+      "alley": {
+        "title": "Alley of Honorary Paligrams",
+        "desc": "On the southwestern side of the museum of the epic “Manas” there is an “Alley of Honorable Pilgrims”, on which beautiful Tien Shan fir trees grow. On August 29, 1995, the first President of the Kyrgyz Republic - A.Akayev, President of Azerbaijan - G.Aliyev, President of Turkey - S. Demrel, President of the Republic of Kazakhstan - N.Nazarbayev, Director General of UNESCO - F. Major delegations from the USA, Russia, Belarus, Armenia, China, Egypt, Japan, India, Iraq, Germany, Georgia, Ukraine and others planted seedlings of the Tien Shan spruce in honor of the International Millennium Anniversary of the great epic of the Kyrgyz people.",
+        "desc2": "The 'Alley of Honorable Pilgrims' is supplemented with new rows from year to year. Such an honor is presented to the distinguished guests who have made a feasible contribution to the development of the Manas Ordo National Complex."
+      },
+      "warriors": {
+        "title": "Manas The Great and forty Warriors",
+        "desc": "The architectural and sculptural ensemble Magnanimous Manas and Forty Warriors consists of 45 figures. In the very center, a 6-meter monument to Manas the Magnanimous stands on a pedestal of 16 meters 30 cm. The bronze images of the wise Bakai, Kanykey apa, Akbalty and Koshoy of the closest companions are put in one composition. The bravest three heroes, the leaders of the centurions Almambet, Chubak, Syrgak complement the ensemble with another composition."
+      },
+      "kumbez": {
+        "title": "Kumbez of Manas - The Saint Legacy",
+        "desc": "The first information about the Kumbez of Manas was found by the famous Orientalist V.V. Bartold. This famous Russian scientist in 1893-1894-wrote a scientific paper 'Report of a Trip to Central Asia. This photo is now one of the first pictures of Manas Kumbez. Further Kumbez Manas was explored by P.P. Ivanov in 1923, M.E. Masson in 1937 under the leadership of F.I. Zuma the first archaeological excavations were carried out. ",
+        "desc2": "During excavations in the eastern part of the Kumbez, two coffins were found. One with the remaining part of male body, and the second one with haphazardly scattered human remains and female jewelry. In 1938, Kumbez was explored by the Smerecha archaeological expedition of the Archaeological Institute of the Scientific Academy of the USSR, led by A.N. Bernshtam. This time two more coffins were found in the kumbez itself, and then even lower at a depth of 11 meters were found the remains of a man 50-60 years old, more than two and a half meters tall, with a special structure of the skull and body parts. According to the epic, Manas, the national hero of Kyrgyz people left this world at the age of 50-60. ",
+        "desc3": "It is known from the work that after the death of Manas, the wise Kanykei ordered to bring the earth from Kokand mixed with white clay, goat hair and goat fat, to make bricks and build a kumbez, over which time has no power. And to avoid desecrating the grave of the Kyrgyz khan, the wise Kanykei started a rumor about burying Manas in the mountains of Echkili Too. Archaeological research showed that the composition of bricks contains goat fat and hair. The remains of authentic bricks with human and animal footprints are kept among the museum exhibits. The sanctuary as an example of the unique culture of the ancient people in 1923 was taken under the protection of the Kyrgyz government. Additional restoration work was carried out before the celebration of the 1000th anniversary of the epic 'Manas'. Kumbez of Manas is visited daily by pilgrims from Kyrgyzstan and tourists from near and far abroad. "
+      },
+      "sentinelMountain": {
+        "title": "Sentinel Mountain",
+        "desc": "From a distance, resembling a pyramid, this mountain of Manas is called the Sentinel Mountain. 175 meters high, this mountain served as a reliable patrol point for 40 Manas warriors. Forty warriors took turns climbing this mountain and could overturn the entire Talas Valley with their eyes. ",
+        "desc2": "If an invasion of the enemy has been noticed, a great fire is ignited from the eastern Bakai-Tash mountains. Shumkar–Uya and in the west Echkili-Too on Manas peak. On the watch mountain there are petroglyphs that occurred in the Bronze Age to us. On the stone on the eastern side there is an inscription in Arabic, which means 'In the Name of the Great God'. This story began in the 11th year of the month of Sha'ban.",
+        "desc3": " The owner of this fortress is the son of 'Mukhamedin Ali Derbish' Research has shown that the record belongs to 741. The northern side of the Watch Mountain is called “Kamyrdyn Beli” About 100 rocky and earthen mounds (burial sites) dating back to the I-V centuries of our era were found here. In scientific archaeology, these mounds are called 'Ken-Kol Cultural Monuments' or 'Ken-Kol Graves'"
+      },
+      "openAirMuseum": {
+        "title": "Open Air Museum",
+        "desc": "The exhibits of the open-air museum, exhibited from the museum to the kumbez Manas itself, will tell a lot about the life and culture of the people of that time. For example, a stone similar to the heart of a foal is called 'Ak Kula's Heart', and a stone like the hooves of a foal is called 'Ak Kula's Hoof'. A stone with traces of a human foot is called 'Bakai's Footprints'. The legend about the origin of this stone reads as follows:",
+        "desc2": "Wise Bakai is looking forward to Semetei's return from Bukhara to Talas. And now the long-awaited day has come. From afar, seeing Semetei, Bakai exclaimed: 'Oh, my people have happiness. He is the same hero as his father Manas, so there is someone to unite the people.' Speaking thus, the sage was so moved that the stone under his foot warmed up and preserved the imprint of his foot. Near kumbez, 'Tolgo Tash' is exhibited - a Manas stone brought from the hills.",
+        "desc3": "Unusual natural phenomena were popularly associated with the epic 'Manas'. Thus, they passed on love and respect for the great epic from generation to generation.",
+        "desc4": "Among the exhibits of the open-air museum there are 11 carved stones. Most of them were brought from the village of Kљch in the Issyk-Kul region. These stones are one of the ancient monuments on which the songs and precepts of our ancestors are carved. At one time, similar stones were placed from the Ala-Too mountains to Mongolia, which were called Kyrgyz graves.",
+        "desc5": "As a rule, when burying famous people, their names with pedigrees were carved on a tombstone. Stones with Orkhon-Yenisei runic inscriptions were found in Talas. One of them is kept in the museum of the epic 'Manas'."
+      },
+      "museumOfTheEpic": {
+        "title": "Museum of the Epic",
+        "desc": "The museum consists of two floors. On the ground floor there are exhibits concerning the researchers of Manas, the scientific history of kumbez Manas, the reflection of the epic 'Manas' in the field of art, information about the Kyrgyz statehood and the storytellers of Manas - manaschis.",
+        "desc2": "On one part of the ground floor there is also an exhibition dedicated to the outstanding writer of the Kyrgyz people, the master of the word – Chingiz Aitmatov.",
+        "desc3": "The second floor of the museum stores the exhibits of the epic 'Manas'. The history of Manas from birth to his last days is reflected here in the paintings of dioramas. You can also get acquainted with the ethnographic household items of the Kyrgyz people. Wax monuments of famous storytellers of Manas – Sayakbai Karallaev and Sagynbai Orozbakav - have been installed in fai.",
+        "desc4": "The main corner of the fae is occupied by a painting by J.Kydyralieva 'The legacy of the fathers'. The painting depicts Father Manas with his son Semetey and grandson Seitek. During their lifetime, these heroes did not see each other. The background shows the people, who (have) Khan Manas at their head.",
+        "desc5": "Another painting by J.Kydyraliev's 'Eternity' occupies the entire eastern wall of the museum. It tells about the life path of Manas from birth to his death. The whole meaning of the philosophical meaning of the epic is contained in this picture."
+      },
+      "tulookana": {
+        "title": "Propitiatory (Tulookana)",
+        "desc": "Propitiation (tuloo) or sacrifice, a good tradition that has come down to us from our ancestors. In the people, this rite is also called 'Asking God.' The complex for these events provides a special room with guest rooms for 75 people and special hearths for cauldrons. In 2008, this part of the complex was supplemented with a summer gazebo for 70 people. The house of healers or the center of folk healers.",
+        "desc2": "Traditional medicine among the Kyrgyz has been developed since ancient times. By the 1000th anniversary, a special room for folk healers was built on the territory of the Manas Ordo complex. Healers with a gift from God work here and treat people from diseases that do not respond to traditional medicine. This center also has hotel facilities, which can be used by pilgrims from afar."
+      },
+      "hippodrom": {
+        "title": "Hippodrom",
+        "desc": "The racetrack is equipped with an open and closed grandstand, a sports ground and a two-kilometer arena for horse racing. This part of the Manas Ordo complex hosts cultural events, republican and regional festivals. Theatrical performances were held at the hippodrome to celebrate the 1000th anniversary of the epic 'Manas'. Theatrical performances were held at the hippodrome to celebrate the 1000th anniversary of the epic 'Manas'."
+      },
+      "datkaMemorial" : {
+        "title": "Ajibek Datka’s Memorial",
+        "desc": "A 200-year-old burial site is located in the center of the national complex. Alchiken uulu Alymbek Datka is buried on the south-western side of the cemetery. During the reign of the Kokand Khanate, Azhybek Datka ruled the Talas Valley. He was killed by order of the khan in the fortress of Oluya Ata (now. Taraz) Of the Kokand Khanate and the body was thrown into Zyndan. The brave son of Azhibek Datka Nur and his horsemen fought their way into the fortress and received the body of Azhibek Datka, burying him with proper honors near kumbez Manas. In 1997, the national complex erected a monument in honor of the brave son of the Talas valley Azhybek Datka."
+      },
+      "wellspring": {
+        "title": "Kanykei and Aichurok’s wellsprings",
+        "desc": "Below 1.5 km of the national complex are the springs of the mothers of Kanykey and Aichurek. These springs have been considered holy since ancient times. Pure spring water has special properties that have been tested for centuries. Springs are protected, improved and landscaped with a folk complex."
+      },
+      "price": {
+        "title": "PAYMENT FOR SERVICES ON THE TERRITORY OF THE KYRGYZ NATIONAL COMPLEX MANAS ORDO",
+        "desc": "Entrance ticket at the ticket office:",
+        "pricing": "For adults - 45 soms",
+        "pricing2": "For children - 10 soms",
+        "pricing3": "Service of tulookana - 700 soms",
+        "pricing4": "Parking of cars - 10 soms",
+        "pricing5": "Manas Ordo Guest House for one person - 100 soms (1st floor), 300-500 soms (2nd floor) Conference hall and guided tours by appointment "
+      }
+    },
+
+    "archive": {
+      "title": "Archive",
+      "desc": "Before the advent of the Internet, the role of newspapers in the life of society was huge. Newspapers, popular science and fiction were the main means of storing and transmitting from generation to generation all the achievements of science and culture. For people of all ages, magazines and newspapers serve as a source of knowledge, help to learn and appreciate life, understand the laws of social relations and natural phenomena.That is why the old original copies are kept in the archives of the Talas Regional Library. The archive is a place of connection of the past, present and future. Thanks to the archive, the connection of time, the history of the development of culture and social life is preserved. This is the significance of the archive as a source of cultural and historical information.",
+      "library": {
+        "title": "Talas Regional Library named by Aman Toktogulov",
+        "book": "Books"
+      },
+      "univer": {
+        "title": "Talas State University",
+        "desc": "Dissertation on the topic CHRONOTOPOLOGICAL STRATIFICATION OF THE VOCABULARY OF THE EPIC 'MANAS'"
+      }
+    },
+    "archeological": {
+      "title": "Museum of Archeology and Ethnography",
+      "desc": "The Museum of Archaeology and Ethnography at the Kyrgyz National Complex 'Manas Ordo' consists of two large parts of archaeology and ethnography and contains the ancient life and progress of the Talas Valley and Kyrgyzstan from the Stone Age to the present day.",
+      "desc2": "This map shows the places where the monuments of the Stone Age were found.  Which proves that people have lived in our and neighboring territories since the Stone Age. The expositions show Paleolithic stones that were found in the Naryn region, in Teke-Sekirik in the Batken region, and in the Issyk-Kul region in the place of Ak-Olon. In the Talas region, Stone Age monuments have recently begun to be studied, and according to the story of archaeologists, a lot of traces of people who lived in the Stone Age were found in the Kumushtak gorge. Because the structural, black stones suitable for the manufacture of weapons are located in the Kumushtak gorge, and, of course, the people of the Stone Age knew this. And also here are the stone tools that were found on the territory of our complex.",
+      "desc3": "The second part of the exhibition is dedicated to the Bronze Age. In this century, the so-called Andronovo people lived in our territories. They have mastered metal mining very well. The oldest and most valuable exhibit of our museum is the dagger that you see in our exposition, which belongs to the Bronze Age. There are a lot of Bronze Age monuments in Kyrgyzstan: parking lots, ancient cemeteries and rock paintings. Famous archaeologists, Bakyt Amanbayeva and Chynarbek Zholdoshev, discovered Bronze Age monuments during the study of the Kenkol burial grounds, which made a great contribution to science.  Prior to that, the monuments of the Bronze Age were studied by the archaeologist of Codecs in Tash-Dobo and Terskol. Moreover, a lot of petroglyphs also belong to the Bronze Age. We are sure that the study of these petroglyphs will reveal a lot of information about the Bronze Age. On the stand there is a photo taken during an expedition to the Bronze Age mounds, where our scientific staff of the Manas Ordo complex study the monuments.",
+      "desc4": "The most interesting finds belong to the early Iron Age. This century is known in science as the Saka-Usun era. In ancient writings in the territories of Tenir-Too and Zheti-Suu, our ancient ancestors Sakas and later Usuni roamed. They are known as Sakas in the ancient chronicles of China, Farsi and Persian scripts. They left large and small mounds (cemeteries). Archaeologists, having studied these mounds, came to the conclusion that they were nomads, but our archaeologists say that our ancestors were a semi-nomadic people. Because when they investigated their bets, they found a huge number of hand mills and pottery. This proves that some of the nomads lived in one place and were engaged in metal mining, needlework and agriculture. About 100 hand mills were found in the village of Kozuchak in the Talas region. Some of these grain grinders are also on display here. And we can call these nomads engaged in agriculture semi-nomads.",
+      "desc5": "The first expedition of foreign scientists in Kyrgyzstan was dedicated to the Ken-Kola burial ground. Why are foreigners interested in the Ken-Kola burial ground? It turns out that in 1896, when the runic inscriptions were found in Talas, it interested the Finno-Ugric expedition. And then in 1898, Professor Geikel's Finno-Ugric expedition visited Talas. During the study of these burial grounds, they saw an unusual culture that lived in the era of the Usuns and gave him the name Ken-Kola burial ground. Together with the Usuns in the 1-5 centuries there lived one special culture, which left the Ken-Kola burial grounds. Why is it special? Their peculiarity lies in the fact that they buried the dead in catacombs together with homemade polychrome decorations. And the most interesting thing is that they deformed their heads. Because they considered themselves a special tribe in Central Asia. And so they deformed their heads and distinguished themselves from others in this way. The work on the study of the Geikel of the Ken-Kola culture was investigated by a major archaeologist M.N.Bernshtam. In the following years, the first Kyrgyz archaeologist Ysman Kozhomberdiyev also worked here.",
+      "desc6": "In the Middle Ages of our era, the ancestors of the Kyrgyz people reached significant heights in culture. Some samples of our national headdresses, cradles, saddles were found in the graves of the Middle Ages. In this century, the worship of 'Umai-Ene' developed very much. And for this reason, in the territories where Turkic-speaking tribes lived, there are statues with the image of 'Umai-Ene' and many stone statues with images of men. The spread of stone sculptures on the territory of Kyrgyzstan dates back to the 6th-10th centuries. and this is due to the era of the Turkic khaganates. They were mainly found in the Naryn, Issyk-Kul, Chui and Talas valleys. Similar monuments are found in Altai, Tuva, Khakassia and Mongolia.",
+      "desc7": "According to written sources, initially the stone sculptures embodied the image of an ancient Turkic warrior. He usually held a cup in his right hand and a weapon in his left. According to one version, the images of weapons and bowls are associated with the tradition of taking the oath of a warrior during his lifetime. Scientist 11-in. Mahmud Kashgari writes that when a Kyrgyz, a kipchak takes an oath, he takes a saber out of its scabbard. Some sources say that if an enemy comes, they meet him with a sword, and if a friend, then with a cup of koumiss. In the same century, our ancestors founded their own writing system. These inscriptions are very similar to the European inscription 'Runes', which is why they are called runic inscriptions. Here are some samples of runic inscriptions that were found in the Talas region. Many of these inscriptions were dedicated to warriors of high rank. The text presented in the exhibition is dedicated to a man named Ana, on which it is written 'I lost my relatives, my wife remained a widow, my brothers remained.' The text is written on behalf of a deceased person. And some inscriptions give information about historical events, for example, one of the unique finds is a stone with inscriptions Atlakh, which was found in the Manas district, in the village of Zhun-Dobo. In 751 AD, there was a great battle in the Atlakh area. In history, this is known as the Battle of Talas. This battle was between the Tang and Arab troops, our ancestors were on the side of the Arabs and won.",
+      "desc8": "As mentioned earlier, our people were semi-nomadic people. The proof of this is the ancient cities of Tehabket and Shelji, known in archaeological maps as Ak-Dobo-1, Ak-Dobo-2.   The most skilled masters of pottery and blacksmithing lived in these cities. They made small and large jars out of clay and some of them were molted with paint called Angok. Things that our ancestors used in the 16th and 18th centuries. In those days, candlesticks were made of clay, then of bronze and decorated with different patterns. Such decorations were given to guests. If green glaze was used during the Karakhanids, then later, during the Timurud period, it was painted with blue paint, then the glass was lined with a similar substance, which can be called quartz flour. Cultural and material heritage such as wood and leather processing, hunting with dogs, hunting with hunting birds has come down to our days. And, having seen such a rich culture, in 1871, the Soviet scientist Vereshchagin painted a portrait of a Kyrgyz hunter. The original of this painting is kept in Moscow by the Tretyakov Gallery. Sheepskin sheepskin coat, as well as a leather bucket with a spout, used for milking mares, cows and goats. Small buckets made from cow udders.",
+      "talas": {
+        "title": "Talas Orkhon-Yenisei inscriptions",
+        "desc": "In ancient times, one of the highest indicators of civilization was the development of writing. In the 7-8 centuries of our era, our ancestors created a powerful state and strengthened their power in Central Asia and southern Siberia. And as an independent state, they founded their own written culture. These inscriptions are known in science as Orkhon Yenisei inscriptions. The ancient Turkic alphabet consists of 38-39 letters. Due to its geometric pattern, it was well adapted for fixing on stone, wood, metal.",
+        "desc2": "In 1896, an official of the Oluya-Ata county, a member of the Turkestan Archaeological Scientific Council, V. Kallaur, hearing that stones with inscriptions were found in Talas, reported to the council this interested scientists. And in 1898, the scientist A.O. Geikel organized a Finno-Ugric expedition to Talas. After studying these inscriptions, they came to the conclusion that these inscriptions are not similar to the runes of Europe, these are the inscriptions of Turkic-speaking ancestors who spoke the local language. Russian scientists, Turkologist Sergey Yefimovich Malov, academician V. V. Radlov and Professor V. Thomson also share this opinion. As well as the famous Turkologist A. Shcherbak said that these inscriptions were founded in Talas and later spread to the east and west.",
+        "desc3": "In 1896-2008, 46 runic inscriptions were found in Kyrgyzstan. 18 of them are in Talas, 4 - in Issyk-Kul, 24 - in Kochkor district.",
+        "desc4": "The first stone is now kept in the Hermitage Museum, in St. Petersburg. V. Radlov was the first to translate. One of these stones is kept in the Manas Ordo Museum. Runic inscriptions have also been found in Mongolia and Altai. The Yenisei inscriptions provide very valuable information about the Kyrgyz khaganate in southern Siberia. For example, an epitaph dedicated to the first kagan of the Kyrgyz, Barsbek."
+      }
+    }
+  }
