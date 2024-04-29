@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Romile';
+  src: url(/public/fonts/RomilePersonalUse-x3Xdr.otf);
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2 {
+  @apply font-['Romile'] text-[#CB3434] text-[20px];
+  @apply sm:text-[20px];
+  @apply lg:text-[30px];
+  foo: bar;
+  
+}
+@media screen and (min-width:200px) {
+  .app-wrapper {
+    display: grid;
+    grid-template-areas: 
+      "header header"
+      "cont cont"
+      "footer footer"
+    ;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2.7fr 10fr;
+  }
+}
+@media screen and (min-width:768px) {
+  .app-wrapper {
+    display: grid;
+    grid-template-areas: 
+      "header header"
+      "nav cont"
+      "footer footer"
+    ;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2.7fr 10fr;
+  }
+}
+
+.header {
+  @apply flex justify-between items-center px-9 bg-[#F4F5F0];
+  @apply fixed z-10;
+  foo: bar;
+  padding: 18px;
+  grid-area: header;
+  border-bottom: 1px solid #555;
+  width: 100%;
+  z-index: 99;
+}
+.header img {
+  width: 40px;
+  height: 40px;
+}
+@media screen and (min-width: 200px) {
+  .nav {
+    display: none;
+    grid-area: nav;
+    background: #F4F5F0;
+    padding: 0 20px;
+    border-right: 1px solid #555;
+  }
+}
+@media screen and (min-width: 768px) {
+  .nav {
+    display: block;
+    grid-area: nav;
+    background: #F4F5F0;
+    padding: 0 20px;
+    border-right: 1px solid #555;
+  }
+}
+.content {
+  grid-area: cont;
+  background: #F4F5F0;
+  padding: 35px;
+  min-height: 100vh;
+}
+.footer {
+  grid-area: footer;
+  background: #282828;
+}

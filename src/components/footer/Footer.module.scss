@@ -1,0 +1,56 @@
+.footer {
+    @apply flex flex-col justify-center;
+    @apply sm:grid sm:grid-cols-4;
+    foo: bar;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    color: #fff;
+    font-size: 13px;
+    &_logo {
+        img {
+
+            // width: 100px;
+        }
+    }
+    div {
+        @apply m-3;
+        foo: bar;
+    }
+    
+    img {
+        width: 46px;
+    }
+
+    .partnerImg {
+        display: flex;
+        justify-content: space-evenly;
+        img {
+            width: 50px;
+        }
+    }
+    
+}
+.footer_media {
+    p{
+
+    }
+    ul{
+        li{
+            margin: 10px 0;
+            a {
+                display: flex;
+                justify-content: center;
+                img {
+                    width: 30px;
+                }
+            }
+        }
+    }
+    
+}
+.commerce {
+    margin: 20px;
+    color: #fff;
+    font-size: 10px;
+}

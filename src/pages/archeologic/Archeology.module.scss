@@ -1,0 +1,79 @@
+.archeology {
+    &_Img {
+        @apply block;
+        @apply flex relative my-12 overflow-scroll;
+        @apply md:overflow-hidden;
+        foo: bar;
+        img {
+            @apply w-[120px];
+            @apply md:w-[150px];
+            @apply xl:w-[220px];
+            foo: bar;
+            // width: 210px;
+            &:nth-child(2) {
+                @apply absolute left-[17%] top-0;
+                @apply md:top-[30px];
+                foo: bar;
+            }
+            &:nth-child(3) {
+                @apply absolute left-[35%] top-0;
+                foo: bar;
+            }
+            &:nth-child(4) {
+                @apply absolute left-[51%] top-0;
+                @apply md:top-[30px];
+                foo: bar;
+            }
+            &:nth-child(5) {
+                @apply absolute left-[69%] top-0;
+                foo: bar;
+            }
+        }
+    }
+    &_Map {
+        @apply block;
+        @apply lg:flex lg:justify-between items-center;
+        foo: bar;
+        img {
+            @apply w-[320px];
+            @apply sm:w-[500px];
+            @apply md:w-[500px];
+            @apply lg:w-[300px];
+            @apply xl:w-[420px];
+            foo: bar;
+        }
+        p {
+            @apply text-[15px] w-[280px];
+            @apply sm:w-[500px];
+            @apply md:text-[14px] md:w-[500px];
+            @apply md:text-[14px] lg:w-[400px];
+            @apply xl:w-[600px];
+            foo: bar;
+        }
+    }
+    &_Bronze {
+        @apply my-14;
+        foo: bar;
+        &_Img {
+            @apply my-5 flex justify-between overflow-scroll;
+            foo: bar;
+            img {
+                @apply w-[200px];
+                @apply lg:w-[150px];
+                @apply xl:w-[220px];
+                foo: bar;
+            }
+        }
+    }
+    &_Bottom {
+        &_Img {
+            @apply my-5 flex justify-between overflow-scroll;
+            foo: bar;
+            img {
+                @apply w-[350px];
+                @apply xl:w-[470px];
+                foo: bar;
+            }
+        }
+    }
+}

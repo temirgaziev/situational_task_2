@@ -1,0 +1,34 @@
+.burgerMenu {
+    @apply md:hidden z-0;
+    foo: bar;
+    
+    .toggleMenu {
+        display: flex;
+        flex-direction: column;
+        position: fixed;
+        transition: all .3s ease-in-out;
+        width: 100%;
+        top: 12%;
+        ul {
+            // min-height: 100vh;
+            background: #282828;
+            border-left: 1px solid #000;
+            color: aliceblue;
+            padding: 30px;
+            li {
+                margin: 20px 0;
+            }
+        }
+        .active {
+            transition: all .3s ease-in-out;
+            transform: translateX(-80%);
+            min-height: 100vh;
+            top: 20%;
+        }
+        .notActive {
+            transition: all .3s ease-in-out;
+            // transform: scaleX(-50%);
+            transform: translateX(120%);
+        }
+    }
+}
