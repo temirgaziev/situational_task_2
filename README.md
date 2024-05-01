@@ -45,15 +45,16 @@ For detailed documentation regarding the website's design, functionality, and de
 
 ### Screenshots:
 
-[![Screenshot 1](/path/to/screenshot1.png)](link_to_screenshot1)
-[![Screenshot 2](/path/to/screenshot2.png)](link_to_screenshot2)
-[![Screenshot 3](/path/to/screenshot3.png)](link_to_screenshot3)
+![Screenshot 1](https://github.com/temirgaziev/situational_task_2/blob/main/screenshots/screen1.png)
+![Screenshot 2](https://github.com/temirgaziev/situational_task_2/blob/main/screenshots/screen2.png)
+![Screenshot 3](https://github.com/temirgaziev/situational_task_2/blob/main/screenshots/screen3.png)
+![Screenshot 4](https://github.com/temirgaziev/situational_task_2/blob/main/screenshots/screen4.png)
 
 ---
 
 ### Video Demonstration:
 
-[Watch the video demonstration of the website's features](link_to_video)
+[Watch the video demonstration of the website's features](https://drive.google.com/file/d/1cTZSL94Mp_IWFqM61Gf_TAJH-EBCszza/view?usp=share_link)
 
 ---
 
